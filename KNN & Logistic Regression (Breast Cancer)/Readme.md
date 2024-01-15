@@ -1,4 +1,4 @@
-# README.md for Breast Cancer Prediction Project
+# KNN & Logistic Regression Breast Cancer Prediction Project
 
 ## Project Overview
 This project focuses on predicting breast cancer types (benign or malignant) using the Wisconsin Diagnostic Breast Cancer (WDBC) dataset. The analysis is performed using both Python and RapidMiner.
